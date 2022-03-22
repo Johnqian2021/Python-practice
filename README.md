@@ -1,2 +1,2 @@
 # Python-practice
-# practice how to use git $ github 2022-03-33
+# practice how to use git $ github 2022-03-22
